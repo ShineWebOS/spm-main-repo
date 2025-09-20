@@ -1,4 +1,3 @@
 {
-  "versions": "https://raw.githubusercontent.com/ShineWebOS/sys-essentials/refs/heads/main/cd/versions.json",
-  "alias": "sys:cd"
+  "versions": "https://raw.githubusercontent.com/ShineWebOS/sys-essentials/refs/heads/main/cd/versions.json"
 }
